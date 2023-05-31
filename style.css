@@ -1,0 +1,91 @@
+.heading{
+    font-size:50px;
+    color:rgb(17, 0, 255);
+}
+
+.background{
+    background: #17e8de 100%;
+}
+
+#myMenu{
+    position:fixed; 
+    top:0; 
+    z-index:99999;
+  
+    width:100%;
+    color:white;
+}
+
+.Puzzles_btn{
+    background-color: coral;
+    font-size:25px;
+    border-radius: 50px;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+.Riddles_btn{
+    background-color: rgb(165, 255, 80);
+    font-size:25px;
+    border-radius: 50px;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+.Games_btn{
+    background-color: rgb(92, 80, 255);
+    font-size:25px;
+    border-radius: 50px;
+    cursor:pointer;
+    font-weight:bold;
+    color:white;
+}
+
+.Songs_btn{
+    background-color: rgb(255, 173, 80);
+    font-size:25px;
+    border-radius: 50px;
+    cursor:pointer;
+    font-weight:bold;
+
+}
+
+.Drawings_btn{
+    background-color: rgb(235, 80, 255);
+    font-size:25px;
+    border-radius: 50px;
+    cursor:pointer;
+    font-weight:bold;
+   
+}
+
+.Contact_btn{
+
+        background-color: rgb(252, 255, 80);
+        font-size:25px;
+        border-radius: 50px;
+        cursor:pointer;
+        font-weight:bold;
+
+    
+    
+}
+
+
+
+
+
+
+h3{
+    font-size:25px;
+}
+
+.back_songs{
+    border-radius: 30%;
+    font-size: xx-large;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.puzzles_body{
+    background-color: #f56042;
+}

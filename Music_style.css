@@ -1,0 +1,118 @@
+body{
+    background:linear-gradient(#fd4800 0%, #dae817 50%,#da0bec 100%);
+}
+
+.Telugu{
+    background:linear-gradient(#dae817 0%, #34f33e 100%);
+    width:100px;
+    height:30px;
+    border-radius:4px;
+    font-weight:bold;
+}
+.English{
+    background:linear-gradient(#17dae8 0%, #4134f3 100%);
+    width:100px;
+    height:30px;
+    border-radius:4px;
+    font-weight:bold;
+}
+.Hindi{
+    background:linear-gradient(#17e898 0%, #f3a734 100%);
+    width:100px;
+    height:30px;
+    border-radius:4px;
+    font-weight:bold;
+}
+.Tamil{
+    background:linear-gradient(#e84117 0%, #34cdf3 100%);
+    width:100px;
+    height:30px;
+    border-radius:4px;
+    font-weight:bold;
+}
+
+.song1-tel{
+    width:300px;
+}
+
+.song2-tel{
+    width:300px;
+}
+
+.song3-tel{
+    width:300px;
+}
+
+.song4-tel{
+    width:300px;
+}
+
+.song5-tel{
+    width:300px;
+}
+
+.song6-tel{
+    width:300px;
+}
+
+.song1-eng{
+    width:300px;
+}
+
+.song2-eng{
+    width:300px;
+}
+
+
+.song3-eng{
+    width:300px;
+}
+
+.song4-eng{
+    width:300px;
+}
+.song5-eng{
+    width:300px;
+}
+.song6-eng{
+    width:300px;
+}
+.song7-eng{
+    width:300px;
+}
+
+#myMenu{
+position:fixed;
+top:0;
+z-index: 99999;
+width:100%;
+background:black;
+}
+
+#English{
+    margin-top: 100px;
+}
+
+
+
+.Pause{
+    background:linear-gradient(#17e886 0%, #f3a734 100%);
+    width:100px;
+    height:30px;
+    border-radius:4px;
+    font-weight:bold;  
+}
+
+.Play{
+    background:linear-gradient(#1779e8 0%, #f3a734 100%);
+    width:100px;
+    height:30px;
+    border-radius:4px;
+    font-weight:bold;  
+}
+
+h3{
+
+    color:white;
+    font-weight:bold;
+}
